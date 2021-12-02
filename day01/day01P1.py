@@ -1,6 +1,6 @@
 #correct answer 1477
 #read file in
-inputs = open("day1Input.txt", "r")
+inputs = open("day01Input.txt", "r")
 oldValue = inputs.readline()
 biggerCounter = 0
 

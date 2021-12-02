@@ -1,7 +1,7 @@
 #correct answer 1523
 #read file
 #sanitize inputs
-with open("day1Input.txt", "r") as inputs:
+with open("day01Input.txt", "r") as inputs:
     cleanInputOne = [int(number.strip()) for number in inputs]
 
 biggerCounter = 0
