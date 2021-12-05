@@ -33,3 +33,4 @@ for currentNumber in range(readLength):
     valueFive = valueSix
 
 print(biggerCounter)
+
